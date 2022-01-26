@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jacobbathan/package-test/issues"
   },
-  "homepage": "https://github.com/jacobbathan/package-test#readme"
+  "homepage": "https://github.com/jacobbathan/package-test#readme",
+  "publishConfig": {
+    "@jacobbathan:registry": "https://npm.pkg.github.com"
+  }
 }
