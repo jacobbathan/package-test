@@ -1,6 +1,6 @@
 {
   "name": "@jacobbathan/package-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jacobbathan/package-test#readme",
   "publishConfig": {
     "@jacobbathan:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
   }
 }
