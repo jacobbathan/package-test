@@ -2,7 +2,7 @@
 
 "use strict";
 
-import chalk from "chalk";
+import "chalk";
 
 console.log("THIS LOG IS FROM THE NODE PACKAGE DISREGARD OR CELEBRATE");
 
